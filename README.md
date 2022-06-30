@@ -6,7 +6,7 @@ Check if code is working
 
 __Availables Features__
 > - Check codes
-
+> - Single Thread
 **Only need your account token**
 
 
